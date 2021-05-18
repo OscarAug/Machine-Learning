@@ -1,3 +1,3 @@
 # Machine Learning
- project related to ML <br>
+ Projects related to ML <br>
  python

@@ -1,4 +1,4 @@
-This project work with 
+This project work with predcting by using KNN (K-nearest neighbors) <br>
 Accelerometer Data	Gyroscope Data	Fall (+), Not (-)
 x	y	z	x	y	z	+/-
 1	2	3	2	1	3	-

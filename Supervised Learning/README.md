@@ -1,1 +1,1 @@
-Supervised Learning related projects
+Supervised Learning related ML projects
